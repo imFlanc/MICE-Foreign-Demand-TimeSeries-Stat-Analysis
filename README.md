@@ -9,7 +9,7 @@ The primary aim of the study is to evaluate the short-term impact of economic in
 
 ## Methods
 
-### Data
+### Data Description and Data Source
 - **Time Period:** Quarterly data from Q1 2009 to Q4 2019.
 - **International Oil Prices**: The data for international oil prices is based on Dubai crude oil, which accounts for 80% of Korea's oil imports. The quarterly average values of international oil prices from the Korea National Oil Corporation (KNOC) were used, and the natural logarithm was applied to the values.
 - **Exchange Rates**: Due to the difficulty in tracking exchange rates for all countries, the exchange rate data was sourced from the Bank of Korea’s Economic Statistics System, using the exchange rate against the US Dollar. The natural logarithm of the exchange rate was then computed.
